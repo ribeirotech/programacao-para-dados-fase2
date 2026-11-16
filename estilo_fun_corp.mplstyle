@@ -1,0 +1,31 @@
+# Estilo customizado "Fun Corp." para todas as figuras do relatório
+font.family: Inter, Carlito, DejaVu Sans
+font.size: 11
+figure.figsize: 8.5, 4.8
+figure.dpi: 110
+savefig.dpi: 200
+savefig.bbox: tight
+figure.facecolor: white
+axes.facecolor: white
+axes.edgecolor: 9AA3AF
+axes.linewidth: 0.8
+axes.spines.top: False
+axes.spines.right: False
+axes.grid: True
+axes.axisbelow: True
+grid.color: E5E7EB
+grid.linewidth: 0.8
+axes.titlesize: 14
+axes.titleweight: bold
+axes.titlelocation: left
+axes.titlepad: 14
+axes.labelsize: 11
+axes.labelcolor: 374151
+xtick.color: 4B5563
+ytick.color: 4B5563
+text.color: 1F2937
+legend.frameon: False
+legend.fontsize: 10
+lines.linewidth: 2.4
+lines.markersize: 6
+axes.prop_cycle: cycler('color', ['1F3A5F', 'E07A2F', '2A9D8F', 'B8B8B8'])
